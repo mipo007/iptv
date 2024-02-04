@@ -15,7 +15,5 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Athletic Club - Mallorca (1080p)
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Athletic Club - Mallorca (1080p)
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Athletic Club - Mallorca (720p)
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",Movistar La Liga
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
