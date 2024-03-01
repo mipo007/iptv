@@ -17,3 +17,5 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://static.vecteezy.com/system/resources/previews/013/366/694/original/foot-ball-or-soccer-ball-icon-symbol-for-art-illustration-logo-website-apps-pictogram-news-infographic-or-graphic-design-element-format-png.png",Movistar La Liga
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="DaznF1.es" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",Dazn F1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
