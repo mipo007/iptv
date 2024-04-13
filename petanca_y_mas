@@ -14,20 +14,14 @@ https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/5581662/e/1_in8
 #EXTINF:-1 tvg-id="CanalExtremadura.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDcwNjY5MzQsIm5iZiI6MTcwNzA2NjkzNCwiZXhwIjoxNzA3MDY3Mjk0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguNy4xMjYuMTc5In0._Uuu_mNR2MVMsaXJzcJp57OgPBQkkUuhhU9O5VYXumk/live/es/b9243cdb24df40128098f3ea25fcf47d/index_3.m3u8
 
-#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", At. Madrid - Borussia Dortmund 1080
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
-#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", At. Madrid - Borussia Dortmund 720
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
+acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", PSG - Barcelona 1080
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-
-#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", PSG - Barcelona 1080
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-
-#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", PSG - Barcelona 720
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 #EXTINF:-1 tvg-id="DaznF1.es" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",Dazn F1
 acestream://5789ca155323664edd293b848606688edf803f4d
