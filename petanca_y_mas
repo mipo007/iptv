@@ -1,16 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/2295px-Logo_TVE-1.svg.png" group-title="News",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="News",La 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
+
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",TDP
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_720.m3u8
+
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/151px-Clan_TVE_logo.svg.png",Clan
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_720.m3u8
+
 #EXTINF:-1 tvg-id="CanalExtremadura.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",Canal Extremadura
 https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/5581662/e/1_in8cxw3w/tl/main/st/0/t/oHRX63cAQQQg0apeXD0G3w/index-s32.m3u8?__hdnea__=st=1707066493~exp=1707152893~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/5581662/e/1_in8cxw3w/tl/main/st/0/t/oHRX63cAQQQg0apeXD0G3w/index-s32.m3u8*~hmac=f8a973147470a08ab0c5f3a611fc2139e36c10822e0786e93121e3bbf5d34ba6
+
 #EXTINF:-1 tvg-id="CanalExtremadura.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDcwNjY5MzQsIm5iZiI6MTcwNzA2NjkzNCwiZXhwIjoxNzA3MDY3Mjk0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguNy4xMjYuMTc5In0._Uuu_mNR2MVMsaXJzcJp57OgPBQkkUuhhU9O5VYXumk/live/es/b9243cdb24df40128098f3ea25fcf47d/index_3.m3u8
 
