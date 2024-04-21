@@ -21,13 +21,13 @@ https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/5581662/e/1_in8
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDcwNjY5MzQsIm5iZiI6MTcwNzA2NjkzNCwiZXhwIjoxNzA3MDY3Mjk0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguNy4xMjYuMTc5In0._Uuu_mNR2MVMsaXJzcJp57OgPBQkkUuhhU9O5VYXumk/live/es/b9243cdb24df40128098f3ea25fcf47d/index_3.m3u8
 
 #EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-id="Movistar.es" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar Liga
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 tvg-id="DaznF1.es" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",Dazn F1
 acestream://5789ca155323664edd293b848606688edf803f4d
