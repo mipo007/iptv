@@ -20,6 +20,9 @@ https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/5581662/e/1_in8
 #EXTINF:-1 tvg-id="Canal8Soria.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",Canal 8 Soria 
 https://la8sorialive.flumotion.cloud/la8sorialive/smil:channel1PRG.smil/fmt_token/FB73LWIxjS-KvTreZ3M_FoUzeNtv2plX5rGcdLoQhhA/eyJleHBpcmUiOiIxNzE3NDI2NTA2IiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC9mZGNiOTczMy02NTg4LTQyZDEtYjA5Ny1lNmZkZjA0MTczZTMiLCIvbGE4c29yaWFsaXZlIl0sInJlZl9hbGxvdyI6WyJjZG5hcGkuY29kZXY4Lm5ldCIsImNtcy5jb2RldjgubmV0Il19/chunklist_b2200000.m3u8
 
+#EXTINF:-1 tvg-id="Canal8Soria.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",Canal 8 Soria v2
+https://la8sorialive.flumotion.cloud/la8sorialive/smil:channel1PRG.smil/fmt_token/FB73LWIxjS-KvTreZ3M_FoUzeNtv2plX5rGcdLoQhhA/eyJleHBpcmUiOiIxNzE3NDI2NTA2IiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC9mZGNiOTczMy02NTg4LTQyZDEtYjA5Ny1lNmZkZjA0MTczZTMiLCIvbGE4c29yaWFsaXZlIl0sInJlZl9hbGxvdyI6WyJjZG5hcGkuY29kZXY4Lm5ldCIsImNtcy5jb2RldjgubmV0Il19/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CanalExtremadura.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png",DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDcwNjY5MzQsIm5iZiI6MTcwNzA2NjkzNCwiZXhwIjoxNzA3MDY3Mjk0LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODguNy4xMjYuMTc5In0._Uuu_mNR2MVMsaXJzcJp57OgPBQkkUuhhU9O5VYXumk/live/es/b9243cdb24df40128098f3ea25fcf47d/index_3.m3u8
 
