@@ -40,3 +40,6 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-id="DaznF1.es" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg",Dazn F1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",Eurosport 1
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
