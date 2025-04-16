@@ -37,3 +37,18 @@ acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-id="Eurosport1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-id="Movistar 1" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 1
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
+
+#EXTINF:-1 tvg-id="Movistar 2" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 2
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+
+#EXTINF:-1 tvg-id="Movistar 3" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 3
+acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+
+#EXTINF:-1 tvg-id="Movistar 4" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 4
+acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+
+#EXTINF:-1 tvg-id="Movistar 6" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 5
+acestream://152169ce99e1fd27f2249c18384a121079cdef29
