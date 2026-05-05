@@ -52,3 +52,6 @@ acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
 
 #EXTINF:-1 tvg-id="Movistar 6" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 5
 acestream://152169ce99e1fd27f2249c18384a121079cdef29
+
+#EXTINF:-1 tvg-id="Lista completa" tvg-logo="https://cdn5.dibujos.net/dibujos/pintados/201828/balon-de-futbol-deportes-futbol-11407891.jpg", Movistar 5
+https://iptv-org.github.io/iptv/index.m3u
